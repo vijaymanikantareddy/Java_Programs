@@ -17,7 +17,7 @@ class MatirxCorner
             String row = br.readLine();
             String in[] = row.split(" ");
             for(j=0;j<row.length;j++)
-                x[i][j]=Integer.parseInt(br.readLine());
+                x[i][j]=Integer.parseInt(in[j]);
             }
         }
 
