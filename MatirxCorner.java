@@ -1,6 +1,6 @@
 // print all the corner elements of an array
 import java.io.*;
-class ArrayCorner
+class MatirxCorner
 {
     public static void main(String args[])throws Exception
     {
