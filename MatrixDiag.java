@@ -1,6 +1,6 @@
-// absolute difference between diagonal and anti diagonal elements sum
+// Java Program to find absolute difference between diagonal and anti diagonal elements sum of a matrix
 import java.io.*;
-class ArrayDiag
+class MatrixDiag
 {
     public static void main(String args[])throws Exception
     {
